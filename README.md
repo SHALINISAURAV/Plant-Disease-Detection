@@ -143,7 +143,7 @@ Example:
 
 ### 🔹 Sample Predictions
 
-(Add sample prediction outputs here)
+
 
 Example:
 
